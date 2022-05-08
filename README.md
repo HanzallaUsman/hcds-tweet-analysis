@@ -16,7 +16,9 @@ From our research we hope to gain a better understanding of the volatility of cr
 What is the impact of user sentiment on Cryptocurrency prices? If the prices are dependent on the user sentiment, then which one - positive or negative sentiment -  affects the price more?   
 
 ## Data used
+
 Bitcoin tweets: https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets
+
 Dogecoin tweets: https://www.kaggle.com/datasets/vrajpatel337/dogecoin-tweets-250k
 
 ## Findings
