@@ -13,7 +13,7 @@ From our research we hope to gain a better understanding of the volatility of cr
 
 ## Research Question
 
-What is the impact of user sentiment on Cryptocurrency prices? If the prices are dependent on the user sentiment, then which one - positive or negative sentiment -  affects the price more?   
+To what extent does human sentiment affect cryptocurrency prices? If the prices are affected by user sentiments, then which one - positive or negative sentiments -  affect the price more? Can we explain the volatility of cryptocurrency on general user sentiments in the crypto market?  
 
 ## Data used
 
@@ -22,6 +22,8 @@ Bitcoin tweets: https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets
 Dogecoin tweets: https://www.kaggle.com/datasets/vrajpatel337/dogecoin-tweets-250k
 
 ## Findings
+
+Although it is not possible to directly state “Human sentiments impact cryptocurrency prices” we can conclude that user sentiments have an impact on them. The volatile nature of cryptocurrency allows for this result. Even though for some parts the relationship seems to be off, while considering the general trend on the graph, we can see the close positive correlation between the two variables in other parts. This shows that human sentiment is not the only factor affecting the price as there are other factors as well. Nevertheless, we can safely conclude that this relationship exists and is worthy of further deeper research. 
 
 ## Limitations
 1. Sentiment scores range from -1 to 1. But we never get daily average sentiment scores below 0. This could be because most people just create fake accounts to make positive tweets about the cryptocurrency they have investment in. We found a lot of user accounts which were created just weeks before making a tweet. Data filtering is a complex step that we could have looked into as a lot of decisions have to be made about which data to keep and which not to. So we decided to leave it as a future improvement.
@@ -36,4 +38,4 @@ Dogecoin tweets: https://www.kaggle.com/datasets/vrajpatel337/dogecoin-tweets-25
 
 ## Reflection/Evaluation 
 
-
+We have continuously tried to explain our results by the sentiment of the users throughout the project to accommodate human-centeredness of the subject. Our decision-making process during the research and development of this report has been concentrated on the human-centeredness of the data-science, because all the main principles of the human-centeredness of the data were taken into consideration.
